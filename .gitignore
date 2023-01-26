@@ -5,6 +5,7 @@
 .pnp.js
 *.txt
 *.vbs
+.gitignore
 
 # testing
 /coverage
