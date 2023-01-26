@@ -18,10 +18,13 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 </p>
 
 <br>
+<br>
 
 <p align="center">
   <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
 </p>
+
+
 
 ## 🚀 Tecnologias
 
@@ -35,14 +38,17 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 Portfolio é um agregador de links para usar como cartão de visitas online.
 
 
+
 ## Funcionalidades
 
 - Portfolio de usuários
 
 
+
 ## Deploy
 
   https://souzamarcell.github.io/Portfolio/
+
 
 
 ## Contato 
@@ -51,9 +57,11 @@ Portfolio é um agregador de links para usar como cartão de visitas online.
 </div>
 
 
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
+
 
 
 ---
