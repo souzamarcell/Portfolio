@@ -2,11 +2,16 @@
   // editor
   "editor.tabSize": 2,
   "editor.minimap.enabled": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+
+  // files
   "files.autoSave": "afterDelay",
 
   // prettier
   "prettier.printWidth": 50,
-  
+
   // preenchimento automático
   "emmet.includeLanguages": {
     "postcss": "css"
